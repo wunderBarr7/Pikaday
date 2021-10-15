@@ -260,3 +260,11 @@ $pd-border-radius: 3px !default;
     box-shadow: none;
     border-radius: $pd-border-radius;
 }
+
+.pika-time-container {
+    clear: both;
+}
+
+.pika-time {
+    margin: 7px auto 7px;
+}
