@@ -1,6 +1,6 @@
 Pikaday - With Time Picker
 ===========
-This is a crude merge of [@owenmead][owenmead's] work on adding a Timepicker to [Pikaday/Pikaday][Pikaday].
+This is a crude merge of [@owenmead's](https://github.com/owenmead) work on adding a Timepicker to [Pikaday/Pikaday](https://github.com/Pikaday/Pikaday).
 
 ### Key Config Changes
 
@@ -26,7 +26,7 @@ This fork allows the user to specify the time along with their date. Done so by 
 
 ## Authors
 
-* Owen Mead-Robins [http://www.owenmead.com/][owenmead]
-* Modified by: Patrick Barr [@wunderBarr7][wunderBarr7]
+* Owen Mead-Robins [owenmead](https://github.com/owenmead)
+* Modified by: Patrick Barr [@wunderBarr7](https://github.com/wunderBarr7)
 
 [david Pika]:   https://github.com/Pikaday/Pikaday                              "Pikaday"
